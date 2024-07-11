@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F777504323162275413%2F&psig=AOvVaw1E9i4L4OGClS8246iEVHHY&ust=1720749404413000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCND31pnxnYcDFQAAAAAdAAAAABCyAQ"  />
+  <img height="200" src="https://br.pinterest.com/pin/777504323162275413/"  />
 </div>
 
 ###
