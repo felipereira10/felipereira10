@@ -1,4 +1,4 @@
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -6,7 +6,13 @@
 
 ###
 
-<h3 align="left">My Techs</h3>
+<div align="left">
+  <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9uOHR3MjcwdHJraHh6NmV0NG9iMzA0MnFtc3c3d2M1YzRleTF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"  />
+</div>
+
+###
+
+<h2 align="left">My Techs</h2>
 
 ###
 
@@ -28,13 +34,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9uOHR3MjcwdHJraHh6NmV0NG9iMzA0MnFtc3c3d2M1YzRleTF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"  />
-</div>
-
-###
-
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h2 align="left">Social Media</h2>
 
 ###
 
