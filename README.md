@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Developer in training</p>
+<p align="left">Full Stack Developer in training</p>
 
 ###
 
