@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">Full Stack Developer in training</p>
+<p align="left">Full Stack Developer in training</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9uOHR3MjcwdHJraHh6NmV0NG9iMzA0MnFtc3c3d2M1YzRleTF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"  />
 </div>
 
