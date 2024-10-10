@@ -17,29 +17,53 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <a href="https://www.java.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <a href="https://www.lua.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+  </a>
 </div>
 
 ###
