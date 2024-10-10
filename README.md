@@ -28,6 +28,7 @@
   <a href="https://www.lua.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
   </a>
+  <br>
   <img width="12" />
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
@@ -40,6 +41,7 @@
   <a href="https://react.dev/" target="_blank">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   </a>
+  <br>
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
@@ -52,6 +54,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   </a>
+  <br>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
