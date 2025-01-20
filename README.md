@@ -37,6 +37,14 @@
   <a href="https://www.postgresql.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   </a>
+    <img width="12" />
+  <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
+  </a>
+  <img width="12" />
+  <a href="https://cloud.google.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
+  </a>
   <img width="12" />
   <a href="https://react.dev/" target="_blank">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
@@ -58,14 +66,6 @@
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
-  </a>
-  <img width="12" />
-  <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
   </a>
 </div>
 
