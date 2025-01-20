@@ -26,7 +26,7 @@
   </a>
   <img width="12" />
   <a href="https://www.lua.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   </a>
   
   <img width="12" />
