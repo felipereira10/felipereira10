@@ -101,5 +101,10 @@
 
 ###
 
+<h2 align="left">Parameters</h2>
+
+###
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipereira10&theme=onedark)](https://github.com/felipereira10/github-profile-trophy)
+
 ###
