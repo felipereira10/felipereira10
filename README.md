@@ -101,8 +101,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/felipereira10/count.svg?"  />
-</div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?felipereira10=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?felipereira10=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ###
