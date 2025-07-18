@@ -20,7 +20,7 @@
 <div align="center">
   
   <a href="https://www.python.org/" target="_blank">
-      <img src=(https://skillicons.dev/icons?i=py&perline=3" height="40" alt="python logo) />
+      <img src="https://skillicons.dev/icons?i=py&perline=3" height="40" alt="python logo" />
   </a>
   
   <img width="12" />
