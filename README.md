@@ -20,37 +20,37 @@
 <div align="center">
   
   <a href="https://www.python.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+      <img src="https://skillicons.dev/icons?i=py&perline=3" height="40" alt="python logo" />
   </a>
   
   <img width="12" />
   
   <a href="https://www.java.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+      <img src="https://skillicons.dev/icons?i=java&perline=3" height="40" alt="java logo" />
   </a>
   
   <img width="12" />
   
   <a href="https://www.php.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+      <img src="https://skillicons.dev/icons?i=php&perline=3" height="40" alt="php logo" />
   </a>
   
   <img width="12" />
   
   <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+      <img src="https://skillicons.dev/icons?i=mongodb&perline=3" height="40" alt="mongodb logo" />
   </a>
   
   <img width="12" />
   
   <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+      <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="40" alt="mysql logo" />
   </a>
   
   <img width="12" />
   
   <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+      <img src="https://skillicons.dev/icons?i=postgres&perline=3" height="40" alt="postgresql logo" />
   </a>
   
   <img width="12" />
