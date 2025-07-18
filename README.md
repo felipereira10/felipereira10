@@ -31,6 +31,12 @@
   </a>
   
   <img width="12" />
+
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  </a>
+  <img width="12" />
+  
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   </a>
