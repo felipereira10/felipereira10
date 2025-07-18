@@ -18,62 +18,114 @@
 ###
 
 <div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=python,java,php,mongodb,mysql,postgree,aws,gcp,nodejs,postman,react,ts,js,html,css,notion&perline=5)](https://skillicons.dev)
+  
   <a href="https://www.python.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://www.java.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://www.lua.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   </a>
   
   <img width="12" />
-
+  
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   </a>
+  
   <img width="12" />
   
   <a href="https://www.mysql.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://www.postgresql.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   </a>
-    <img width="12" />
+  
+  <img width="12" />
+  
   <a href="https://aws.amazon.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://cloud.google.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
   </a>
+  
   <img width="12" />
+  
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  </a>
+  
+  <img width="12" />
+
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  </a>
+  
+  <img width="12" />
+
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  </a>
+  
+  <img width="12" />
+
   <a href="https://react.dev/" target="_blank">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   </a>
   
   <img width="12" />
+  
+  <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  </a>
+  
+  <img width="12" />
+  
   <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://www.javascript.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </a>
+  
   <img width="12" />
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   </a>
   
   <img width="12" />
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   </a>
+  
+  <img width="12" />
+  
+  <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
+  </a>
+  
 </div>
 
 ###
