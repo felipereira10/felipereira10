@@ -18,7 +18,6 @@
 ###
 
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python,java,php,mongodb,mysql,postgree,aws,gcp,nodejs,postman,react,ts,js,html,css,notion&perline=5)](https://skillicons.dev)
   
   <a href="https://www.python.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
@@ -32,7 +31,7 @@
   
   <img width="12" />
   
-  <a href="https://www.lua.org/" target="_blank">
+  <a href="https://www.php.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   </a>
   
@@ -68,30 +67,24 @@
   
   <img width="12" />
   
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   </a>
   
   <img width="12" />
 
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.nodejs.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   </a>
   
   <img width="12" />
 
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   </a>
   
   <img width="12" />
 
-  <a href="https://react.dev/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  </a>
-  
-  <img width="12" />
-  
   <a href="https://react.dev/" target="_blank">
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   </a>
@@ -122,7 +115,7 @@
   
   <img width="12" />
   
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.notion.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
   </a>
   
