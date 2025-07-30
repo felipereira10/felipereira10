@@ -159,3 +159,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipereira10&theme=onedark)](https://github.com/felipereira10/github-profile-trophy)
 
 ###
+
+- uses: lowlighter/metrics@latest
+  with:
+    plugin_languages: yes
+    plugin_languages_indepth: yes
+    commits_authoring: firstname lastname, username, username@users.noreply.github.com
