@@ -163,5 +163,5 @@
 <details>
   <summary> Most commonly used languages </summary>
 
-  ![Most used languages](https://github.com/USERNAME/USERNAME/blob/main/metrics.svg?sanitize=true#gh-light-mode-only)
+  ![Most used languages](https://github.com/felipereira10/felipereira/blob/main/metrics.svg?sanitize=true#gh-light-mode-only)
 </details>
