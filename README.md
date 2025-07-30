@@ -164,4 +164,4 @@
   with:
     plugin_languages: yes
     plugin_languages_indepth: yes
-    commits_authoring: firstname lastname, username, username@users.noreply.github.com
+    commits_authoring: Felipe Pereira, felipereira10, felipe.pereira99@outlook.com
