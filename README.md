@@ -162,5 +162,5 @@
 
  <h2 align="left"> Most commonly used languages </h2>
 
-  ![GitHub Metrics](https://raw.githubusercontent.com/felipereira10/felipereira10/generated/metrics.svg)
+  ![GitHub Metrics](https://raw.githubusercontent.com/felipereira10/felipereira10/main/metrics.svg)
 
