@@ -160,8 +160,7 @@
 
 ###
 
-<details>
-  <summary> Most commonly used languages </summary>
+ <h2 align="left"> Most commonly used languages </h2>
 
-  ![GitHub Mectrics](https://github.com/felipereira10/felipereira10/blob/generated/metrics.svg)
-</details>
+  ![GitHub Metrics](https://raw.githubusercontent.com/felipereira10/felipereira10/generated/metrics.svg)
+
