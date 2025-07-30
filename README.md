@@ -160,8 +160,8 @@
 
 ###
 
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
-    plugin_languages_indepth: yes
-    commits_authoring: Felipe Pereira, felipereira10, felipe.pereira99@outlook.com
+<details>
+  <summary> Most commonly used languages </summary>
+
+  ![Most used languages](https://github.com/USERNAME/USERNAME/blob/main/metrics.svg?sanitize=true#gh-light-mode-only)
+</details>
