@@ -16,7 +16,7 @@
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBobGZ0NjZ3eHd2azJmamg3N20xOHE3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"  />
 </div> -->
 
-<div align="center">
+<div align="left">
   <img height="200" width="200" 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"
     style="border-radius: 20px"
@@ -25,12 +25,12 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
 
 <h2 align="left">My Techs</h2>
 
-<h3 align="center">Languages</h3>
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,php,ts,js,html,css&perline=3" height="650" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,notion&perline=3" height="650" />
 </p>
