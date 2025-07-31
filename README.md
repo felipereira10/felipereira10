@@ -11,125 +11,24 @@
 <img height="120" width="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9uOHR3MjcwdHJraHh6NmV0NG9iMzA0MnFtc3c3d2M1YzRleTF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp"  />
 </div> -->
 
-<div align="left">
+<!-- <div align="left">
   <img height="120" width="120" 
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBobGZ0NjZ3eHd2azJmamg3N20xOHE3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"  />
-</div>
+</div> -->
 
-<div align="left">
-  <img height="120" width="120" 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"  />
-</div>
-
-###
-
-<h2 align="left">My Techs</h2>
-
-###
-
-<div align="center">
-  
-  <a href="https://www.python.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=py&perline=3" height="40" alt="python logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.java.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=java&perline=3" height="40" alt="java logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.php.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=php&perline=3" height="40" alt="php logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=mongodb&perline=3" height="40" alt="mongodb logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="40" alt="mysql logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=postgres&perline=3" height="40" alt="postgresql logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.docker.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  </a>
-  
-  <img width="12" />
-
-  <a href="https://www.nodejs.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  </a>
-  
-  <img width="12" />
-
-  <a href="https://www.postman.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-  </a>
-  
-  <img width="12" />
-
-  <a href="https://react.dev/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  </a>
-  
-  <img width="12" />
-  
-  <a href="https://www.notion.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
-  </a>
-  
-</div>
+<table>
+  <tr>
+    <td width="250">
+      <img height="200" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif" />
+    </td>
+    <td>
+      <h2>🚀 My Techs</h2>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion" height="40" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
