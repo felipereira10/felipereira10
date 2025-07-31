@@ -18,19 +18,19 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
 
 <table>
   <tr>
-    <td width="250">
+    <td>
+      <h2>My Techs</h2>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="60" />
+      </p>
+    </td>
+    <td width="600">
       <img 
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"
         height="200"
         width="200"
         style="border-radius: 20px;"
       />
-    </td>
-    <td>
-      <h2>🚀 My Techs</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="60" />
-      </p>
     </td>
   </tr>
 </table>
