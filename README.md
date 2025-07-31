@@ -16,24 +16,19 @@
 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBobGZ0NjZ3eHd2azJmamg3N20xOHE3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tuCFp8rod0x3O/giphy.gif"  />
 </div> -->
 
-<table>
-  <tr>
-    <td>
-      <h2>My Techs</h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="600" />
-      </p>
-    </td>
-    <td width="600">
-      <img 
-        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"
-        height="200"
-        width="200"
-        style="border-radius: 20px;"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkYnAyeHFucnF6cjhjOG83OWN1b2E5YmQ0cGQ1N2lscGU3ZWgwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzWxTUiXRQDYc/giphy.gif"
+    width="200"
+    style="border-radius: 20px"
+  />
+</div>
+
+<h2 align="center">🚀 My Techs</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="60" />
+</p>
 
 
 ###
