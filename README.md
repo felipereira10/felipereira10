@@ -21,7 +21,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
     <td>
       <h2>My Techs</h2>
       <p>
-        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="60" />
+        <img src="https://skillicons.dev/icons?i=py,java,php,mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,ts,js,html,css,notion&perline=6" height="600" />
       </p>
     </td>
     <td width="600">
