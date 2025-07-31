@@ -37,7 +37,7 @@
   
   <img width="12" />
   
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=mongodb&perline=3" height="40" alt="mongodb logo" />
   </a>
   
@@ -127,11 +127,9 @@
 
 ###
 
-README.md
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipereira10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipereira10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipereira10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=felipereira10&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
