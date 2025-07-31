@@ -25,14 +25,14 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
 
 <h2 align="left">My Techs</h2>
 
-<h3 align="left">Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,php,ts,js,html,css&perline=5" height="650" />
+  <img src="https://skillicons.dev/icons?i=py,java,php,ts,js,html,css&perline=3" height="650" />
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,notion&perline=5" height="650" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,nodejs,postman,react,notion&perline=3" height="650" />
 </p>
 
 ###
