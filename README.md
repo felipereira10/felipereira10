@@ -79,7 +79,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
 
 ###
 
- <h2 align="left"> Most commonly used languages </h2>
+ <h2 align="left"> Git Activity Timeline </h2>
 
   ![GitHub Metrics](https://raw.githubusercontent.com/felipereira10/felipereira10/main/metrics.svg)
 
