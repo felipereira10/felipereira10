@@ -51,6 +51,12 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
   <img src="https://streak-stats.demolab.com?user=felipereira10&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=felipereira10&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=felipereira10&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipereira10&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
 ###
 
 <h2 align="left">Social Media</h2>
