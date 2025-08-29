@@ -33,7 +33,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmY3pxbGY2NGdpYWRmbXBob
     </td>
     <td align="center" valign="top">
       <h4>Tools</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,spring,nodejs,fastapi,flask,firebase,git,postman,react,linux,notion&perline=5" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,gcp,docker,spring,nodejs,fastapi,flask,firebase,git,postman,react,linux,notion&perline=6" />
     </td>
   </tr>
 </table>
